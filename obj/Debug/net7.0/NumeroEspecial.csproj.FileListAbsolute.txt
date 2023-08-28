@@ -1,0 +1,14 @@
+c:\Users\Sebastian Cuello\Desktop\projects\NumeroEspecial\bin\Debug\net7.0\NumeroEspecial.exe
+c:\Users\Sebastian Cuello\Desktop\projects\NumeroEspecial\bin\Debug\net7.0\NumeroEspecial.deps.json
+c:\Users\Sebastian Cuello\Desktop\projects\NumeroEspecial\bin\Debug\net7.0\NumeroEspecial.runtimeconfig.json
+c:\Users\Sebastian Cuello\Desktop\projects\NumeroEspecial\bin\Debug\net7.0\NumeroEspecial.dll
+c:\Users\Sebastian Cuello\Desktop\projects\NumeroEspecial\bin\Debug\net7.0\NumeroEspecial.pdb
+c:\Users\Sebastian Cuello\Desktop\projects\NumeroEspecial\obj\Debug\net7.0\NumeroEspecial.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Sebastian Cuello\Desktop\projects\NumeroEspecial\obj\Debug\net7.0\NumeroEspecial.AssemblyInfoInputs.cache
+c:\Users\Sebastian Cuello\Desktop\projects\NumeroEspecial\obj\Debug\net7.0\NumeroEspecial.AssemblyInfo.cs
+c:\Users\Sebastian Cuello\Desktop\projects\NumeroEspecial\obj\Debug\net7.0\NumeroEspecial.csproj.CoreCompileInputs.cache
+c:\Users\Sebastian Cuello\Desktop\projects\NumeroEspecial\obj\Debug\net7.0\NumeroEspecial.dll
+c:\Users\Sebastian Cuello\Desktop\projects\NumeroEspecial\obj\Debug\net7.0\refint\NumeroEspecial.dll
+c:\Users\Sebastian Cuello\Desktop\projects\NumeroEspecial\obj\Debug\net7.0\NumeroEspecial.pdb
+c:\Users\Sebastian Cuello\Desktop\projects\NumeroEspecial\obj\Debug\net7.0\NumeroEspecial.genruntimeconfig.cache
+c:\Users\Sebastian Cuello\Desktop\projects\NumeroEspecial\obj\Debug\net7.0\ref\NumeroEspecial.dll
